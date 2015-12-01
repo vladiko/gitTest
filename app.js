@@ -1,5 +1,6 @@
 window.addEventListener('load',start);
 
 function start(){
-    // test git
+
+    document.getElementById('button').addEventListener('click',click);
 }
