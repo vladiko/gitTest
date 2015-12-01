@@ -1,5 +1,5 @@
 window.addEventListener('load',start);
 
-function start()   {
-    alert('dddd');
+function start(){
+    //alert('dddd');
 }
